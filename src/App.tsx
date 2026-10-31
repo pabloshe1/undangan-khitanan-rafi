@@ -135,7 +135,7 @@ export default function App() {
 
         <section className="wrap">
           <article className="ticket">
-            <p className="ticket-top">Tiket masuk kebun binatang Rafi</p>
+            <p className="ticket-top">Walimatul Khitan</p>
             <h2>{c.event.dateLabel}</h2>
             <p>{c.event.timeLabel}</p>
             <hr />
